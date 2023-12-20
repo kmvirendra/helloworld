@@ -15,6 +15,7 @@ namespace HelloWorldConsoleApp
             Console.WriteLine("10003");
             Console.WriteLine("Changes after finish feature done 10003");
             Console.WriteLine("10004");
+            Console.WriteLine("10006");
             Console.ReadLine();
         }
     }
