@@ -16,6 +16,7 @@ namespace HelloWorldConsoleApp
             Console.WriteLine("Changes after finish feature done 10003");
             Console.WriteLine("10004");
             Console.WriteLine("10006");
+            Console.WriteLine("Have to update 10006 branch");
             Console.ReadLine();
         }
     }
