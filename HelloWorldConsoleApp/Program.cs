@@ -19,6 +19,7 @@ namespace HelloWorldConsoleApp
 
             Console.WriteLine("10006");
 
+            Console.WriteLine("100055");
 
             Console.ReadLine();
         }
